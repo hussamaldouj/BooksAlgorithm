@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تصميم وتحليل الخوارزميات</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="menu_algo">الخوارزميات</string>
+    <string name="menu_lang">لغات البرمجة</string>
+    <string name="menu_prog">البرامج والبرمجة</string>
+    <string name="menu_uml">لغة النمذجة الموحدة</string>
+    <string name="menu_linealgo">الخوارزميات الخطية</string>
+    <string name="menu_analysis">تحليل الخوارزميات</string>
+    <string name="menu_datastract">بنى المعطيات</string>
+    <string name="nav_header_title">تصميم وتحليل الخوارزميات</string>
+</resources>
